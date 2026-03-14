@@ -1,4 +1,4 @@
-#  Google Review Request Automation — Make.com
+#  Google Review Request Automation - Make.com
 
 > Automatically sends personalised Google review request emails to customers pulled from a Google Sheet — generating more 5-star reviews without any manual effort.
 
