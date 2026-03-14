@@ -1,10 +1,10 @@
-# 🌟 Google Review Request Automation — Make.com
+#  Google Review Request Automation — Make.com
 
 > Automatically sends personalised Google review request emails to customers pulled from a Google Sheet — generating more 5-star reviews without any manual effort.
 
 ---
 
-## 📌 The Problem
+## The Problem
 
 Most businesses lose dozens of potential 5-star reviews every month simply because they forget to ask. Manually emailing every customer after a job or sale is:
 
@@ -14,13 +14,13 @@ Most businesses lose dozens of potential 5-star reviews every month simply becau
 
 ---
 
-## ✅ The Solution
+## The Solution
 
 This Make.com automation watches a Google Sheet for new customer entries and automatically sends a personalised review request email — then follows up if there's no response. Zero manual effort required.
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 
 ```
 Google Sheet (new row added)
@@ -36,7 +36,7 @@ Customer clicks link → leaves Google Review ⭐⭐⭐⭐⭐
 
 ---
 
-## 🔧 Tools & Apps Used
+##  Tools & Apps Used
 
 ![Make.com](https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
@@ -45,7 +45,7 @@ Customer clicks link → leaves Google Review ⭐⭐⭐⭐⭐
 
 ---
 
-## 📋 Workflow Breakdown
+##  Workflow Breakdown
 
 | Step | Module | What It Does |
 |---|---|---|
@@ -58,17 +58,17 @@ Customer clicks link → leaves Google Review ⭐⭐⭐⭐⭐
 
 ---
 
-## 📊 Results & Impact
+##  Results & Impact
 
-- ⭐ **More 5-star Google reviews** generated on autopilot
-- ⏱️ **Saves 2–5 hours per week** of manual follow-up per business
-- 🔁 **Automated follow-up reminders** sent without any human involvement
-- 📈 **Consistent review volume** — every customer gets asked, every time
-- 🚫 **No duplicate emails** — sheet is updated after each send
+-  **More 5-star Google reviews** generated on autopilot
+-  **Saves 2–5 hours per week** of manual follow-up per business
+-  **Automated follow-up reminders** sent without any human involvement
+-  **Consistent review volume** — every customer gets asked, every time
+-  **No duplicate emails** — sheet is updated after each send
 
 ---
 
-## 🗂️ Google Sheet Structure
+##  Google Sheet Structure
 
 Your sheet needs these columns for the automation to work:
 
@@ -82,7 +82,7 @@ Your sheet needs these columns for the automation to work:
 
 ---
 
-## 🚀 How To Import & Use This Automation
+##  How To Import & Use This Automation
 
 1. Download the `blueprint.json` file from this repo
 2. Go to [make.com](https://make.com) and create a new scenario
@@ -95,7 +95,7 @@ Your sheet needs these columns for the automation to work:
 
 ---
 
-## 📁 Files In This Repo
+## Files In This Repo
 
 ```
 📂 google-review-automation/
@@ -107,21 +107,21 @@ Your sheet needs these columns for the automation to work:
 
 ---
 
-## 💡 Customisation Ideas
+##  Customisation Ideas
 
-- 🔀 **Add an SMS channel** alongside email for higher open rates
-- ⏰ **Adjust the follow-up delay** — 3 days, 7 days, or custom timing
-- 🏷️ **Segment by service type** — send different emails for different jobs
-- 📊 **Add a Slack notification** when a new review is received
-- 🌍 **Multi-location support** — route different customers to different Google Review links
+-  **Add an SMS channel** alongside email for higher open rates
+-  **Adjust the follow-up delay** — 3 days, 7 days, or custom timing
+-  **Segment by service type** — send different emails for different jobs
+-  **Add a Slack notification** when a new review is received
+-  **Multi-location support** — route different customers to different Google Review links
 
 ---
 
-## 🤝 Want This Built For Your Business?
+##  Want This Built For Your Business?
 
 I build and deploy this automation for businesses that want more Google reviews without the manual work.
 
-📧 **Contact:** *[Add your email here]*
+📧 **Contact:** *[cimbautomation@gmail.com/tmurimwas@gmail.com]*
 
 ---
 
